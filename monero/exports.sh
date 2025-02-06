@@ -79,7 +79,6 @@ fi
 export MONERO_DEFAULT_NETWORK="${MONERO_CHAIN}"
 
 BIN_ARGS=()
-BIN_ARGS+=( "--confirm-external-bind" )
 
 BIN_ARGS+=( "--rpc-login=\"${APP_MONERO_RPC_AUTH}\"" )
 
