@@ -7,7 +7,7 @@ export APP_MONERO_DATA_DIR="${EXPORTS_APP_DIR}/data/monero"
 export APP_MONERO_RPC_PORT="18081"
 export APP_MONERO_RESTRICTED_RPC_PORT="18089"
 export APP_MONERO_P2P_PORT="18080"
-export APP_MONERO_TOR_PORT="9901"
+export APP_MONERO_TOR_PORT="18083"
 
 #temporarily set to mainnet
 MONERO_NETWORK="mainnet"
